@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_attractions">Attractions</string>
+    <string name="title_planner">Planner</string>
+    <string name="title_notification">Notifications</string>
+    <string name="title_more">More</string>
+    <string name="api_link">https://api.myjson.com/bins/11o26s</string>
+    <string name="hot_trending"><![CDATA[HOT & TRENDING]]></string>
+    <string name="popular">POPULAR</string>
+    <string name="handpicked_for_you">HANDPICKED FOR YOU</string>
+    <string name="packages">PACKAGES</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main">Tour Activity</string>
+
+</resources>
