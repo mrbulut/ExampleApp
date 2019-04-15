@@ -1,0 +1,710 @@
+[
+  {
+    "discount": "50",
+    "point": "4.2",
+    "tourName": "Sultan Ahmet",
+    "tourType": "Travel",
+    "tourStatus": "New",
+    "tourLocation": "Alemdar Mh.34110 Fatih/İstanbul",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "http://i.internethaber.com/uploads/content/sultan-ahmed-kimdir-nasil-oldu-iste-sultan-ahmedin-hayati2jpg.jpg?v=1459934966",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Anadolu yakasında iseniz Kadiköy’den vapurla Eminönü’ne geçebilir, buradan Bağcılar yönüne giden tramvaya binerek, Sultanahmet Durağı’nda inebilirsiniz. Sultanahmet Meydanı’ndaki Alman Çeşmesi, Mısır Dikilitaş, Örme Dikilitaş ve Yılanlı Sütunu inceledikten sonra Bizans döneminden kalma ünlü Yerebatan Sarayı adı verilen büyük su sarnıcını ziyaret edip burada Osmanlı ve Yeniçeri kıyafetleri ile resim çektirebilirsiniz. Resimler çekilirken eğlenmek garantili:)",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "35",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "30",
+    "point": "4.9",
+    "tourName": "Paris Eiffel Kulesi",
+    "tourType": "History",
+    "tourStatus": "New",
+    "tourLocation": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Fransa",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://oitheblog.com/wp-content/uploads/2018/04/Montmartre-Paris-2.jpg",
+      "https://oitheblog.com/wp-content/uploads/2018/04/Merci-Paris-1.jpg ",
+      "https://oitheblog.com/wp-content/uploads/2018/04/Montmartre-Paris-2.jpg",
+      "https://oitheblog.com/wp-content/uploads/2018/04/Paris-Gezi-Rehberi-1.jpg",
+      "https://oitheblog.com/wp-content/uploads/2018/04/Montmartre-Paris-2.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Paris aşırı turistik bir şehir olduğu için her halükarda kalabalıkla cebelleşmek zorunda kalacaksınız. Ancak özellikle Mayıs – Eylül aralığında gidecek olursanız şehrin en kalabalık döneminde olacağınızı hatırlatalım",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Paris’e gitme planınızı erteleseniz sanki daha iyi olacak bazı etkinlik ve tatil dönemlerini de es geçmemek gerek. "
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "88",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "45",
+    "point": "3.7",
+    "tourName": "Berlin-CharlottenburgTuru",
+    "tourType": "Travel",
+    "tourStatus": "New",
+    "tourLocation": "Berlin-CharlottenburgBerlinAlmanya",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://oitheblog.com/wp-content/uploads/2014/10/Berghain-1-1024x868.jpg",
+      "https://oitheblog.com/wp-content/uploads/2014/10/36521678.jpg",
+      "https://oitheblog.com/wp-content/uploads/2014/10/Berlin-Berghain-Club-Panorama-Bar_4.jpg",
+      "https://oitheblog.com/wp-content/uploads/2014/10/1310655719-berghain.jpg",
+      "https://oitheblog.com/wp-content/uploads/2014/10/Berghain-1-1024x868.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Anadolu yakasında iseniz Kadiköy’den vapurla Eminönü’ne geçebilir, buradan Bağcılar yönüne giden tramvaya binerek, Sultanahmet Durağı’nda inebilirsiniz. Sultanahmet Meydanı’ndaki Alman Çeşmesi, Mısır Dikilitaş, Örme Dikilitaş ve Yılanlı Sütunu inceledikten sonra Bizans döneminden kalma ünlü Yerebatan Sarayı adı verilen büyük su sarnıcını ziyaret edip burada Osmanlı ve Yeniçeri kıyafetleri ile resim çektirebilirsiniz. Resimler çekilirken eğlenmek garantili:)",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "150",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "60",
+    "point": "2.5",
+    "tourName": "Mısır Piramitler",
+    "tourType": "History",
+    "tourStatus": "Popular",
+    "tourLocation": "36 Al Mashhad Al Hussein, Cairo Governorate, Mısır",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://i2.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_1046.jpg?resize=730%2C484&ssl=1",
+      "https://i0.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_0766.jpg?resize=730%2C484&ssl=1",
+      "https://i0.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_0799.jpg?resize=730%2C484&ssl=1",
+      "https://i0.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_0766.jpg?resize=730%2C484&ssl=1",
+      "https://i2.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_1046.jpg?resize=730%2C484&ssl=1"
+    ],
+    "tourDescArray": {
+      "topText": "Mısır ya da resmî adıyla Mısır Arap Cumhuriyeti, ya da kısa ve yaygın adıyla sadece Mısır denilir.",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Cumhurbaşkanı Abdülfettah el Sisi'dir. Ülke Başbakanı ise İbrahim Mehlab'dır."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "20",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "85",
+    "point": "4.5",
+    "tourName": "Fransa Marsilya",
+    "tourType": "Travel",
+    "tourStatus": "Popular",
+    "tourLocation": "Bât A4, Parc Valad, Impasse Paradou, 13009 Marseille, Fransa",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransa-gezilecek-yerleri.jpg",
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransada-gezilecek-yerler.jpg",
+      "https://yoldaolmak.com/wp-content/uploads/2016/05/Kapadokya-Gezilecek-Gorulecek-Yerler.jpg",
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransada-gezilecek-yerler.jpg",
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransa-gezilecek-yerleri.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Fransa, ya da resmî adıyla Fransız Cumhuriyeti, ana kara toprakları Batı Avrupa'da bulunan ve dünyanın pek çok b",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Kuzey Denizi'ne, doğuda Ren Nehri'nden batıda Atlas Okyanusu'na kadar yayılan topraklarda yer alır"
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "350",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "20",
+    "point": "2.5",
+    "tourName": "Stadio Olimpico İtaly",
+    "tourType": "History",
+    "tourStatus": "Popular",
+    "tourLocation": "Viale dei Gladiatori, 00135 Roma RM, İtalya",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransa-gezilecek-yerleri.jpg",
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransada-gezilecek-yerler.jpg",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "https://yoldaolmak.com/wp-content/uploads/2018/06/fransada-gezilecek-yerler.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "İtalya ya da resmî olarak İtalyan Cumhuriyeti ya da bazen İtalya Cumhuriyeti, Güney Avrupa'da, büyük ölçü",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*YKuzeyde Alpler bölgesinde Fransa, İsviçre, Avusturya ve Slovenya'yla kara sınırı vardır.."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "75",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "50",
+    "point": "4.2",
+    "tourName": "Romanya ",
+    "tourType": "Travel",
+    "tourStatus": "Popular",
+    "tourLocation": "1",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://i2.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_1046.jpg?resize=730%2C484&ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Anadolu yakasında iseniz Kadiköy’den vapurla Eminönü’ne geçebilir, buradan Bağcılar yönüne giden tramvaya binerek, Sultanahmet Durağı’nda inebilirsiniz. Sultanahmet Meydanı’ndaki Alman Çeşmesi, Mısır Dikilitaş, Örme Dikilitaş ve Yılanlı Sütunu inceledikten sonra Bizans döneminden kalma ünlü Yerebatan Sarayı adı verilen büyük su sarnıcını ziyaret edip burada Osmanlı ve Yeniçeri kıyafetleri ile resim çektirebilirsiniz. Resimler çekilirken eğlenmek garantili:)",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "35",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "48",
+    "point": "4.9",
+    "tourName": "Moskova Çernobil ",
+    "tourType": "History",
+    "tourStatus": "Popular",
+    "tourLocation": "Kiev OblastıUkrayna",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://oitheblog.com/wp-content/uploads/2018/04/Montmartre-Paris-2.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Anadolu yakasında iseniz Kadiköy’den vapurla Eminönü’ne geçebilir, buradan Bağcılar yönüne giden tramvaya binerek, Sultanahmet Durağı’nda inebilirsiniz. Sultanahmet Meydanı’ndaki Alman Çeşmesi, Mısır Dikilitaş, Örme Dikilitaş ve Yılanlı Sütunu inceledikten sonra Bizans döneminden kalma ünlü Yerebatan Sarayı adı verilen büyük su sarnıcını ziyaret edip burada Osmanlı ve Yeniçeri kıyafetleri ile resim çektirebilirsiniz. Resimler çekilirken eğlenmek garantili:)",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "188",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "75",
+    "point": "2.9",
+    "tourName": "Afrika Safari Parkı",
+    "tourType": "Funny",
+    "tourStatus": "Packages",
+    "tourLocation": "Güney Afrika",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://media.bileteviniz.com/production/misc/afrika/3-Serengeti-National-Park.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "https://media.bileteviniz.com/production/misc/afrika/3-Serengeti-National-Park.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Afrika, yüzölçümü ve nüfus yoğunluğu açısından dünyanın en büyük ikinci kıtasıdır. ",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Kendisine bitişik kabul edilen adalar ile birlikte 30,8 milyon km²'lik alanı ile dünya yüzölçümünün %6'sını ve dünya üzerindeki toprakların %24,4'ünü kapsar. 1 milyar kişilik nüfusuyla dünya nüfusunun %15'ini barındırır"
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "800",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "50",
+    "point": "4.2",
+    "tourName": "Filipinler",
+    "tourType": "Travel",
+    "tourStatus": "Packages",
+    "tourLocation": "Filipinler",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://i0.wp.com/hohhoyyt.com/wp-content/uploads/2018/03/dsc_0766.jpg?resize=730%2C484&ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Anadolu yakasında iseniz Kadiköy’den vapurla Eminönü’ne geçebilir, buradan Bağcılar yönüne giden tramvaya binerek, Sultanahmet Durağı’nda inebilirsiniz. Sultanahmet Meydanı’ndaki Alman Çeşmesi, Mısır Dikilitaş, Örme Dikilitaş ve Yılanlı Sütunu inceledikten sonra Bizans döneminden kalma ünlü Yerebatan Sarayı adı verilen büyük su sarnıcını ziyaret edip burada Osmanlı ve Yeniçeri kıyafetleri ile resim çektirebilirsiniz. Resimler çekilirken eğlenmek garantili:)",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "33",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "50",
+    "point": "3.5",
+    "tourName": "Moskova Rusya",
+    "tourType": "History",
+    "tourStatus": "Packages",
+    "tourLocation": "Moskova",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "https://koinmedya.com/wp-content/uploads/2019/04/rusya-kriptopara-koinmedya-com.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Rusya veya resmî adıyla Rusya Federasyonu, kuzey Avrasya'da bir ülkedir. Yönetim şekli federal yarı başkanlık tipi cumhuriyettir",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "55",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  },
+  {
+    "discount": "50",
+    "point": "4.2",
+    "tourName": "Sultan Ahmet",
+    "tourType": "Travel",
+    "tourStatus": "Packages",
+    "tourLocation": "1",
+    "instructions": "instructions ",
+    "tourImageArray": [
+      "http://i.internethaber.com/uploads/content/sultan-ahmed-kimdir-nasil-oldu-iste-sultan-ahmedin-hayati2jpg.jpg?v=1459934966",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpTTDrfmcWf7bZhGbNVP94YR_7wWdiQrL3YqPz339By5pzOB-",
+      "http://www.dinihaberler.com.tr/images/haberler/24405.jpg",
+      "http://www.cts-tours.com/dosyalar/resimler/sultanahmet-2.jpg",
+      "https://megarotanatourism.com/wp-content/uploads/2018/12/sultanahmet.jpg"
+    ],
+    "tourDescArray": {
+      "topText": "Anadolu yakasında iseniz Kadiköy’den vapurla Eminönü’ne geçebilir, buradan Bağcılar yönüne giden tramvaya binerek, Sultanahmet Durağı’nda inebilirsiniz. Sultanahmet Meydanı’ndaki Alman Çeşmesi, Mısır Dikilitaş, Örme Dikilitaş ve Yılanlı Sütunu inceledikten sonra Bizans döneminden kalma ünlü Yerebatan Sarayı adı verilen büyük su sarnıcını ziyaret edip burada Osmanlı ve Yeniçeri kıyafetleri ile resim çektirebilirsiniz. Resimler çekilirken eğlenmek garantili:)",
+      "features": {
+        "0": "first features",
+        "1": "second features",
+        "2": "third  features"
+      },
+      "bottomText": "*Yerebatan Sarnıcı ziyareti sonrası altı minareli, ünlü Sultanahmet Camii’ni (Blue Mosque) dıştan ve de içten incelemek büyüleyici. Karınlar açıktıysa."
+    },
+    "scheduleArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    },
+    "priceArray": {
+      "price": "35",
+      "bottomText": "*bottomText"
+    },
+    "incAndExcArray": {
+      "inc": {
+        "0": "ekstra",
+        "1": "ekstra",
+        "2": "ekstra"
+      },
+      "notinc": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      }
+    },
+    "addInfoArray": {
+      "topText": "topText",
+      "features": {
+        "0": "first",
+        "1": "second",
+        "2": "third"
+      },
+      "bottomText": "*bottomText"
+    }
+  }
+]
